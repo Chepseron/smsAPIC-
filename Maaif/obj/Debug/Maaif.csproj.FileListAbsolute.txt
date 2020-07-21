@@ -1,0 +1,707 @@
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\ApplicationInsights.config
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\roslyn\csc.exe
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\roslyn\System.Collections.Immutable.dll
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\roslyn\vbc.exe
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\roslyn\VBCSCompiler.exe
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\roslyn\VBCSCompiler.exe.config
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\Maaif.dll.config
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\Maaif.dll
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\Maaif.pdb
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\Antlr3.Runtime.dll
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\Microsoft.AI.Web.dll
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\Microsoft.AI.WindowsServer.dll
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\Microsoft.ApplicationInsights.dll
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\Microsoft.Web.Infrastructure.dll
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\Newtonsoft.Json.dll
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\System.Net.Http.Formatting.dll
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\System.Web.Helpers.dll
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\System.Web.Http.dll
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\System.Web.Http.WebHost.dll
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\System.Web.Mvc.dll
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\System.Web.Optimization.dll
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\System.Web.Razor.dll
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\System.Web.WebPages.Deployment.dll
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\System.Web.WebPages.dll
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\System.Web.WebPages.Razor.dll
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\WebGrease.dll
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\Microsoft.AI.Web.xml
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\Microsoft.AI.WindowsServer.xml
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\Microsoft.ApplicationInsights.xml
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\Newtonsoft.Json.xml
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\System.Net.Http.Formatting.xml
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\System.Web.Helpers.xml
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\System.Web.Http.xml
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\System.Web.Http.WebHost.xml
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\System.Web.Mvc.xml
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\System.Web.Optimization.xml
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\System.Web.Razor.xml
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\System.Web.WebPages.xml
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\System.Web.WebPages.Deployment.xml
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\System.Web.WebPages.Razor.xml
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\bin\Antlr3.Runtime.pdb
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\obj\Debug\Maaif.dll
+c:\users\amon.sabul\documents\visual studio 2015\Projects\Maaif\Maaif\obj\Debug\Maaif.pdb
+C:\Users\amon.sabul\Documents\Visual Studio 2015\Projects\Maaif\Maaif\obj\Debug\Maaif.csprojResolveAssemblyReference.cache
+F:\UGANDA\C#\Maaif\Maaif\bin\ApplicationInsights.config
+F:\UGANDA\C#\Maaif\Maaif\bin\roslyn\csc.exe
+F:\UGANDA\C#\Maaif\Maaif\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\UGANDA\C#\Maaif\Maaif\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\UGANDA\C#\Maaif\Maaif\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\UGANDA\C#\Maaif\Maaif\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\UGANDA\C#\Maaif\Maaif\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\UGANDA\C#\Maaif\Maaif\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\UGANDA\C#\Maaif\Maaif\bin\roslyn\System.Collections.Immutable.dll
+F:\UGANDA\C#\Maaif\Maaif\bin\roslyn\System.Reflection.Metadata.dll
+F:\UGANDA\C#\Maaif\Maaif\bin\roslyn\vbc.exe
+F:\UGANDA\C#\Maaif\Maaif\bin\roslyn\VBCSCompiler.exe
+F:\UGANDA\C#\Maaif\Maaif\bin\roslyn\VBCSCompiler.exe.config
+F:\UGANDA\C#\Maaif\Maaif\bin\Maaif.dll.config
+F:\UGANDA\C#\Maaif\Maaif\bin\Maaif.dll
+F:\UGANDA\C#\Maaif\Maaif\bin\Maaif.pdb
+F:\UGANDA\C#\Maaif\Maaif\bin\Antlr3.Runtime.dll
+F:\UGANDA\C#\Maaif\Maaif\bin\Microsoft.AI.Agent.Intercept.dll
+F:\UGANDA\C#\Maaif\Maaif\bin\Microsoft.AI.DependencyCollector.dll
+F:\UGANDA\C#\Maaif\Maaif\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\UGANDA\C#\Maaif\Maaif\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\UGANDA\C#\Maaif\Maaif\bin\Microsoft.AI.Web.dll
+F:\UGANDA\C#\Maaif\Maaif\bin\Microsoft.AI.WindowsServer.dll
+F:\UGANDA\C#\Maaif\Maaif\bin\Microsoft.ApplicationInsights.dll
+F:\UGANDA\C#\Maaif\Maaif\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\UGANDA\C#\Maaif\Maaif\bin\Microsoft.Web.Infrastructure.dll
+F:\UGANDA\C#\Maaif\Maaif\bin\Newtonsoft.Json.dll
+F:\UGANDA\C#\Maaif\Maaif\bin\System.Net.Http.Formatting.dll
+F:\UGANDA\C#\Maaif\Maaif\bin\System.Web.Helpers.dll
+F:\UGANDA\C#\Maaif\Maaif\bin\System.Web.Http.dll
+F:\UGANDA\C#\Maaif\Maaif\bin\System.Web.Http.WebHost.dll
+F:\UGANDA\C#\Maaif\Maaif\bin\System.Web.Mvc.dll
+F:\UGANDA\C#\Maaif\Maaif\bin\System.Web.Optimization.dll
+F:\UGANDA\C#\Maaif\Maaif\bin\System.Web.Razor.dll
+F:\UGANDA\C#\Maaif\Maaif\bin\System.Web.WebPages.Deployment.dll
+F:\UGANDA\C#\Maaif\Maaif\bin\System.Web.WebPages.dll
+F:\UGANDA\C#\Maaif\Maaif\bin\System.Web.WebPages.Razor.dll
+F:\UGANDA\C#\Maaif\Maaif\bin\WebGrease.dll
+F:\UGANDA\C#\Maaif\Maaif\bin\Microsoft.AI.DependencyCollector.xml
+F:\UGANDA\C#\Maaif\Maaif\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\UGANDA\C#\Maaif\Maaif\bin\Microsoft.AI.Web.xml
+F:\UGANDA\C#\Maaif\Maaif\bin\Microsoft.AI.WindowsServer.xml
+F:\UGANDA\C#\Maaif\Maaif\bin\Microsoft.ApplicationInsights.xml
+F:\UGANDA\C#\Maaif\Maaif\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\UGANDA\C#\Maaif\Maaif\bin\Newtonsoft.Json.xml
+F:\UGANDA\C#\Maaif\Maaif\bin\System.Net.Http.Formatting.xml
+F:\UGANDA\C#\Maaif\Maaif\bin\System.Web.Helpers.xml
+F:\UGANDA\C#\Maaif\Maaif\bin\System.Web.Http.xml
+F:\UGANDA\C#\Maaif\Maaif\bin\System.Web.Http.WebHost.xml
+F:\UGANDA\C#\Maaif\Maaif\bin\System.Web.Mvc.xml
+F:\UGANDA\C#\Maaif\Maaif\bin\System.Web.Optimization.xml
+F:\UGANDA\C#\Maaif\Maaif\bin\System.Web.Razor.xml
+F:\UGANDA\C#\Maaif\Maaif\bin\System.Web.WebPages.xml
+F:\UGANDA\C#\Maaif\Maaif\bin\System.Web.WebPages.Deployment.xml
+F:\UGANDA\C#\Maaif\Maaif\bin\System.Web.WebPages.Razor.xml
+F:\UGANDA\C#\Maaif\Maaif\bin\Antlr3.Runtime.pdb
+F:\UGANDA\C#\Maaif\Maaif\obj\Debug\Maaif.dll
+F:\UGANDA\C#\Maaif\Maaif\obj\Debug\Maaif.pdb
+D:\Amon Sabul\Maaif\Maaif\bin\ApplicationInsights.config
+D:\Amon Sabul\Maaif\Maaif\bin\roslyn\csc.exe
+D:\Amon Sabul\Maaif\Maaif\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Amon Sabul\Maaif\Maaif\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Amon Sabul\Maaif\Maaif\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Amon Sabul\Maaif\Maaif\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Amon Sabul\Maaif\Maaif\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Amon Sabul\Maaif\Maaif\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Amon Sabul\Maaif\Maaif\bin\roslyn\System.Collections.Immutable.dll
+D:\Amon Sabul\Maaif\Maaif\bin\roslyn\System.Reflection.Metadata.dll
+D:\Amon Sabul\Maaif\Maaif\bin\roslyn\vbc.exe
+D:\Amon Sabul\Maaif\Maaif\bin\roslyn\VBCSCompiler.exe
+D:\Amon Sabul\Maaif\Maaif\bin\roslyn\VBCSCompiler.exe.config
+D:\Amon Sabul\Maaif\Maaif\bin\Maaif.dll.config
+D:\Amon Sabul\Maaif\Maaif\bin\Maaif.dll
+D:\Amon Sabul\Maaif\Maaif\bin\Maaif.pdb
+D:\Amon Sabul\Maaif\Maaif\bin\Antlr3.Runtime.dll
+D:\Amon Sabul\Maaif\Maaif\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Amon Sabul\Maaif\Maaif\bin\Microsoft.AI.DependencyCollector.dll
+D:\Amon Sabul\Maaif\Maaif\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Amon Sabul\Maaif\Maaif\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Amon Sabul\Maaif\Maaif\bin\Microsoft.AI.Web.dll
+D:\Amon Sabul\Maaif\Maaif\bin\Microsoft.AI.WindowsServer.dll
+D:\Amon Sabul\Maaif\Maaif\bin\Microsoft.ApplicationInsights.dll
+D:\Amon Sabul\Maaif\Maaif\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Amon Sabul\Maaif\Maaif\bin\Microsoft.Web.Infrastructure.dll
+D:\Amon Sabul\Maaif\Maaif\bin\Newtonsoft.Json.dll
+D:\Amon Sabul\Maaif\Maaif\bin\System.Net.Http.Formatting.dll
+D:\Amon Sabul\Maaif\Maaif\bin\System.Web.Helpers.dll
+D:\Amon Sabul\Maaif\Maaif\bin\System.Web.Http.dll
+D:\Amon Sabul\Maaif\Maaif\bin\System.Web.Http.WebHost.dll
+D:\Amon Sabul\Maaif\Maaif\bin\System.Web.Mvc.dll
+D:\Amon Sabul\Maaif\Maaif\bin\System.Web.Optimization.dll
+D:\Amon Sabul\Maaif\Maaif\bin\System.Web.Razor.dll
+D:\Amon Sabul\Maaif\Maaif\bin\System.Web.WebPages.Deployment.dll
+D:\Amon Sabul\Maaif\Maaif\bin\System.Web.WebPages.dll
+D:\Amon Sabul\Maaif\Maaif\bin\System.Web.WebPages.Razor.dll
+D:\Amon Sabul\Maaif\Maaif\bin\WebGrease.dll
+D:\Amon Sabul\Maaif\Maaif\bin\Microsoft.AI.DependencyCollector.xml
+D:\Amon Sabul\Maaif\Maaif\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Amon Sabul\Maaif\Maaif\bin\Microsoft.AI.Web.xml
+D:\Amon Sabul\Maaif\Maaif\bin\Microsoft.AI.WindowsServer.xml
+D:\Amon Sabul\Maaif\Maaif\bin\Microsoft.ApplicationInsights.xml
+D:\Amon Sabul\Maaif\Maaif\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Amon Sabul\Maaif\Maaif\bin\Newtonsoft.Json.xml
+D:\Amon Sabul\Maaif\Maaif\bin\System.Net.Http.Formatting.xml
+D:\Amon Sabul\Maaif\Maaif\bin\System.Web.Helpers.xml
+D:\Amon Sabul\Maaif\Maaif\bin\System.Web.Http.xml
+D:\Amon Sabul\Maaif\Maaif\bin\System.Web.Http.WebHost.xml
+D:\Amon Sabul\Maaif\Maaif\bin\System.Web.Mvc.xml
+D:\Amon Sabul\Maaif\Maaif\bin\System.Web.Optimization.xml
+D:\Amon Sabul\Maaif\Maaif\bin\System.Web.Razor.xml
+D:\Amon Sabul\Maaif\Maaif\bin\System.Web.WebPages.xml
+D:\Amon Sabul\Maaif\Maaif\bin\System.Web.WebPages.Deployment.xml
+D:\Amon Sabul\Maaif\Maaif\bin\System.Web.WebPages.Razor.xml
+D:\Amon Sabul\Maaif\Maaif\bin\Antlr3.Runtime.pdb
+D:\Amon Sabul\Maaif\Maaif\obj\Debug\Maaif.dll
+D:\Amon Sabul\Maaif\Maaif\obj\Debug\Maaif.pdb
+D:\Amon Sabul\Maaif\Maaif\obj\Debug\Maaif.csprojResolveAssemblyReference.cache
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\ApplicationInsights.config
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\roslyn\csc.exe
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\roslyn\vbc.exe
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\roslyn\VBCSCompiler.exe
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\Maaif.dll.config
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\Maaif.dll
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\Maaif.pdb
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\Antlr3.Runtime.dll
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\Microsoft.AI.Web.dll
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\Microsoft.ApplicationInsights.dll
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\Newtonsoft.Json.dll
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\System.Net.Http.Formatting.dll
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\System.Web.Helpers.dll
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\System.Web.Http.dll
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\System.Web.Http.WebHost.dll
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\System.Web.Mvc.dll
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\System.Web.Optimization.dll
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\System.Web.Razor.dll
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\System.Web.WebPages.Deployment.dll
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\System.Web.WebPages.dll
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\System.Web.WebPages.Razor.dll
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\WebGrease.dll
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\Microsoft.AI.Web.xml
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\Microsoft.ApplicationInsights.xml
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\Newtonsoft.Json.xml
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\System.Net.Http.Formatting.xml
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\System.Web.Helpers.xml
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\System.Web.Http.xml
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\System.Web.Http.WebHost.xml
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\System.Web.Mvc.xml
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\System.Web.Optimization.xml
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\System.Web.Razor.xml
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\System.Web.WebPages.xml
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\System.Web.WebPages.Deployment.xml
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\System.Web.WebPages.Razor.xml
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\bin\Antlr3.Runtime.pdb
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\obj\Debug\Maaif.csprojResolveAssemblyReference.cache
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\obj\Debug\Maaif.dll
+C:\Users\amon.kiptoo\Desktop\Maaif\Maaif\obj\Debug\Maaif.pdb
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\ApplicationInsights.config
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\roslyn\csc.exe
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\roslyn\System.Collections.Immutable.dll
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\roslyn\System.Reflection.Metadata.dll
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\roslyn\vbc.exe
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\roslyn\VBCSCompiler.exe
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\roslyn\VBCSCompiler.exe.config
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\Maaif.dll.config
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\Maaif.dll
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\Maaif.pdb
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\Antlr3.Runtime.dll
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\Microsoft.AI.DependencyCollector.dll
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\Microsoft.AI.Web.dll
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\Microsoft.AI.WindowsServer.dll
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\Microsoft.ApplicationInsights.dll
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\Microsoft.Web.Infrastructure.dll
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\Newtonsoft.Json.dll
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\System.Net.Http.Formatting.dll
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\System.Web.Helpers.dll
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\System.Web.Http.dll
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\System.Web.Http.WebHost.dll
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\System.Web.Mvc.dll
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\System.Web.Optimization.dll
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\System.Web.Razor.dll
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\System.Web.WebPages.Deployment.dll
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\System.Web.WebPages.dll
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\System.Web.WebPages.Razor.dll
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\WebGrease.dll
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\Microsoft.AI.DependencyCollector.xml
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\Microsoft.AI.Web.xml
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\Microsoft.AI.WindowsServer.xml
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\Microsoft.ApplicationInsights.xml
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\Newtonsoft.Json.xml
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\System.Net.Http.Formatting.xml
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\System.Web.Helpers.xml
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\System.Web.Http.xml
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\System.Web.Http.WebHost.xml
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\System.Web.Mvc.xml
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\System.Web.Optimization.xml
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\System.Web.Razor.xml
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\System.Web.WebPages.xml
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\System.Web.WebPages.Deployment.xml
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\System.Web.WebPages.Razor.xml
+D:\Amon Sabul\Uganda\Maaif\Maaif\bin\Antlr3.Runtime.pdb
+D:\Amon Sabul\Uganda\Maaif\Maaif\obj\Debug\Maaif.dll
+D:\Amon Sabul\Uganda\Maaif\Maaif\obj\Debug\Maaif.pdb
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\ApplicationInsights.config
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\roslyn\csc.exe
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\roslyn\vbc.exe
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\roslyn\VBCSCompiler.exe
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\Maaif.dll.config
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\Maaif.dll
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\Maaif.pdb
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\Antlr3.Runtime.dll
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\Microsoft.AI.Web.dll
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\Microsoft.ApplicationInsights.dll
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\Newtonsoft.Json.dll
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\System.Net.Http.Formatting.dll
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\System.Web.Helpers.dll
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\System.Web.Http.dll
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\System.Web.Http.WebHost.dll
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\System.Web.Mvc.dll
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\System.Web.Optimization.dll
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\System.Web.Razor.dll
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\System.Web.WebPages.Deployment.dll
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\System.Web.WebPages.dll
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\System.Web.WebPages.Razor.dll
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\WebGrease.dll
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\Microsoft.AI.Web.xml
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\Microsoft.ApplicationInsights.xml
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\Newtonsoft.Json.xml
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\System.Net.Http.Formatting.xml
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\System.Web.Helpers.xml
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\System.Web.Http.xml
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\System.Web.Http.WebHost.xml
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\System.Web.Mvc.xml
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\System.Web.Optimization.xml
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\System.Web.Razor.xml
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\System.Web.WebPages.xml
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\System.Web.WebPages.Deployment.xml
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\System.Web.WebPages.Razor.xml
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\bin\Antlr3.Runtime.pdb
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\obj\Debug\Maaif.dll
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\obj\Debug\Maaif.pdb
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\ApplicationInsights.config
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\roslyn\csc.exe
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\roslyn\vbc.exe
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\roslyn\VBCSCompiler.exe
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\Maaif.dll.config
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\Maaif.dll
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\Maaif.pdb
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\Antlr3.Runtime.dll
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\Microsoft.AI.Web.dll
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\Microsoft.ApplicationInsights.dll
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\Newtonsoft.Json.dll
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\System.Net.Http.Formatting.dll
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\System.Web.Helpers.dll
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\System.Web.Http.dll
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\System.Web.Http.WebHost.dll
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\System.Web.Mvc.dll
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\System.Web.Optimization.dll
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\System.Web.Razor.dll
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\System.Web.WebPages.Deployment.dll
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\System.Web.WebPages.dll
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\System.Web.WebPages.Razor.dll
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\WebGrease.dll
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\Microsoft.AI.Web.xml
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\Microsoft.ApplicationInsights.xml
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\Newtonsoft.Json.xml
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\System.Net.Http.Formatting.xml
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\System.Web.Helpers.xml
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\System.Web.Http.xml
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\System.Web.Http.WebHost.xml
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\System.Web.Mvc.xml
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\System.Web.Optimization.xml
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\System.Web.Razor.xml
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\System.Web.WebPages.xml
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\System.Web.WebPages.Deployment.xml
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\System.Web.WebPages.Razor.xml
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\bin\Antlr3.Runtime.pdb
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\obj\Debug\Maaif.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\obj\Debug\Maaif.dll
+C:\Users\David\Desktop\MAAIFSOURCE\Maaif\Maaif\obj\Debug\Maaif.pdb
+C:\Users\amon.sabul\Desktop\maaif\Maaif\Maaif\obj\Debug\Maaif.csprojResolveAssemblyReference.cache
+D:\Amon Sabul\Uganda\Maaif\Maaif\obj\Debug\Maaif.csprojResolveAssemblyReference.cache
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\ApplicationInsights.config
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\roslyn\csc.exe
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\roslyn\System.Collections.Immutable.dll
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\roslyn\System.Reflection.Metadata.dll
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\roslyn\vbc.exe
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\roslyn\VBCSCompiler.exe
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\roslyn\VBCSCompiler.exe.config
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\Maaif.dll.config
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\Maaif.dll
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\Maaif.pdb
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\Antlr3.Runtime.dll
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\Microsoft.AI.DependencyCollector.dll
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\Microsoft.AI.Web.dll
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\Microsoft.AI.WindowsServer.dll
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\Microsoft.ApplicationInsights.dll
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\Microsoft.Web.Infrastructure.dll
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\Newtonsoft.Json.dll
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\System.Net.Http.Formatting.dll
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\System.Web.Helpers.dll
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\System.Web.Http.dll
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\System.Web.Http.WebHost.dll
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\System.Web.Mvc.dll
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\System.Web.Optimization.dll
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\System.Web.Razor.dll
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\System.Web.WebPages.Deployment.dll
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\System.Web.WebPages.dll
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\System.Web.WebPages.Razor.dll
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\WebGrease.dll
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\Microsoft.AI.DependencyCollector.xml
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\Microsoft.AI.Web.xml
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\Microsoft.AI.WindowsServer.xml
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\Microsoft.ApplicationInsights.xml
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\Newtonsoft.Json.xml
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\System.Net.Http.Formatting.xml
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\System.Web.Helpers.xml
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\System.Web.Http.xml
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\System.Web.Http.WebHost.xml
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\System.Web.Mvc.xml
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\System.Web.Optimization.xml
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\System.Web.Razor.xml
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\System.Web.WebPages.xml
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\System.Web.WebPages.Deployment.xml
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\System.Web.WebPages.Razor.xml
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\bin\Antlr3.Runtime.pdb
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\obj\Debug\Maaif.csprojResolveAssemblyReference.cache
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\obj\Debug\Maaif.dll
+D:\Amon Sabul\Uganda\MaaifCurrent\Maaif\Maaif\obj\Debug\Maaif.pdb
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\ApplicationInsights.config
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\roslyn\csc.exe
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\roslyn\vbc.exe
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\roslyn\VBCSCompiler.exe
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\Maaif.dll.config
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\Maaif.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\Maaif.pdb
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\Antlr3.Runtime.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\Microsoft.AI.Web.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\Newtonsoft.Json.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\System.Net.Http.Formatting.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\System.Web.Helpers.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\System.Web.Http.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\System.Web.Http.WebHost.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\System.Web.Mvc.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\System.Web.Optimization.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\System.Web.Razor.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\System.Web.WebPages.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\System.Web.WebPages.Razor.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\WebGrease.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\Microsoft.AI.Web.xml
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\Newtonsoft.Json.xml
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\System.Net.Http.Formatting.xml
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\System.Web.Helpers.xml
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\System.Web.Http.xml
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\System.Web.Http.WebHost.xml
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\System.Web.Mvc.xml
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\System.Web.Optimization.xml
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\System.Web.Razor.xml
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\System.Web.WebPages.xml
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\System.Web.WebPages.Razor.xml
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\bin\Antlr3.Runtime.pdb
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\obj\Debug\Maaif.csprojResolveAssemblyReference.cache
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\obj\Debug\Maaif.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\MaaifCurrent\Maaif\Maaif\obj\Debug\Maaif.pdb
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\ApplicationInsights.config
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\roslyn\csc.exe
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\roslyn\System.Collections.Immutable.dll
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\roslyn\System.Reflection.Metadata.dll
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\roslyn\vbc.exe
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\roslyn\VBCSCompiler.exe
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\roslyn\VBCSCompiler.exe.config
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\Maaif.dll.config
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\Maaif.dll
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\Maaif.pdb
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\Antlr3.Runtime.dll
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\Microsoft.AI.DependencyCollector.dll
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\Microsoft.AI.Web.dll
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\Microsoft.AI.WindowsServer.dll
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\Microsoft.ApplicationInsights.dll
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\Microsoft.Web.Infrastructure.dll
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\Newtonsoft.Json.dll
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\System.Net.Http.Formatting.dll
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\System.Web.Helpers.dll
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\System.Web.Http.dll
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\System.Web.Http.WebHost.dll
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\System.Web.Mvc.dll
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\System.Web.Optimization.dll
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\System.Web.Razor.dll
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\System.Web.WebPages.Deployment.dll
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\System.Web.WebPages.dll
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\System.Web.WebPages.Razor.dll
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\WebGrease.dll
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\Microsoft.AI.DependencyCollector.xml
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\Microsoft.AI.Web.xml
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\Microsoft.AI.WindowsServer.xml
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\Microsoft.ApplicationInsights.xml
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\Newtonsoft.Json.xml
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\System.Net.Http.Formatting.xml
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\System.Web.Helpers.xml
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\System.Web.Http.xml
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\System.Web.Http.WebHost.xml
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\System.Web.Mvc.xml
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\System.Web.Optimization.xml
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\System.Web.Razor.xml
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\System.Web.WebPages.xml
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\System.Web.WebPages.Deployment.xml
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\System.Web.WebPages.Razor.xml
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\bin\Antlr3.Runtime.pdb
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\obj\Debug\Maaif.dll
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\obj\Debug\Maaif.pdb
+D:\Amon Sabul\Uganda\SERVICES\Maaif\Maaif\obj\Debug\Maaif.csprojResolveAssemblyReference.cache
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\ApplicationInsights.config
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\roslyn\csc.exe
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\roslyn\vbc.exe
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\roslyn\VBCSCompiler.exe
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\Maaif.dll.config
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\Maaif.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\Maaif.pdb
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\Antlr3.Runtime.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\Microsoft.AI.Web.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\Newtonsoft.Json.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\System.Net.Http.Formatting.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\System.Web.Helpers.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\System.Web.Http.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\System.Web.Http.WebHost.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\System.Web.Mvc.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\System.Web.Optimization.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\System.Web.Razor.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\System.Web.WebPages.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\System.Web.WebPages.Razor.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\WebGrease.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\Microsoft.AI.Web.xml
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\Newtonsoft.Json.xml
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\System.Net.Http.Formatting.xml
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\System.Web.Helpers.xml
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\System.Web.Http.xml
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\System.Web.Http.WebHost.xml
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\System.Web.Mvc.xml
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\System.Web.Optimization.xml
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\System.Web.Razor.xml
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\System.Web.WebPages.xml
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\System.Web.WebPages.Razor.xml
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\bin\Antlr3.Runtime.pdb
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\obj\Debug\Maaif.csprojResolveAssemblyReference.cache
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\obj\Debug\Maaif.dll
+C:\Users\Amon.sabul.CRAFTSILICON\Desktop\Maaif\Maaif\obj\Debug\Maaif.pdb
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\ApplicationInsights.config
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\roslyn\csc.exe
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\roslyn\System.Collections.Immutable.dll
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\roslyn\System.Reflection.Metadata.dll
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\roslyn\vbc.exe
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\roslyn\VBCSCompiler.exe
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\roslyn\VBCSCompiler.exe.config
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\Maaif.dll.config
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\Maaif.dll
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\Maaif.pdb
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\Antlr3.Runtime.dll
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\Microsoft.AI.Agent.Intercept.dll
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\Microsoft.AI.DependencyCollector.dll
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\Microsoft.AI.Web.dll
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\Microsoft.AI.WindowsServer.dll
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\Microsoft.ApplicationInsights.dll
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\Microsoft.Web.Infrastructure.dll
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\Newtonsoft.Json.dll
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\System.Net.Http.Formatting.dll
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\System.Web.Helpers.dll
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\System.Web.Http.dll
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\System.Web.Http.WebHost.dll
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\System.Web.Mvc.dll
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\System.Web.Optimization.dll
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\System.Web.Razor.dll
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\System.Web.WebPages.Deployment.dll
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\System.Web.WebPages.dll
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\System.Web.WebPages.Razor.dll
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\WebGrease.dll
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\Microsoft.AI.DependencyCollector.xml
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\Microsoft.AI.Web.xml
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\Microsoft.AI.WindowsServer.xml
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\Microsoft.ApplicationInsights.xml
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\Newtonsoft.Json.xml
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\System.Net.Http.Formatting.xml
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\System.Web.Helpers.xml
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\System.Web.Http.xml
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\System.Web.Http.WebHost.xml
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\System.Web.Mvc.xml
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\System.Web.Optimization.xml
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\System.Web.Razor.xml
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\System.Web.WebPages.xml
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\System.Web.WebPages.Deployment.xml
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\System.Web.WebPages.Razor.xml
+F:\UGANDA\C#\Uganda\Maaif\Maaif\bin\Antlr3.Runtime.pdb
+F:\UGANDA\C#\Uganda\Maaif\Maaif\obj\Debug\Maaif.dll
+F:\UGANDA\C#\Uganda\Maaif\Maaif\obj\Debug\Maaif.pdb
+F:\UGANDA\C#\Uganda\Maaif\Maaif\obj\Debug\Maaif.csprojResolveAssemblyReference.cache

@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://finaclews.org" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://finaclews.org" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://finaclews.org">
+      <s:element name="UbaVasPayment">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="BILLER_ID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="AMOUNT" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="ACCOUNT_NO" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="COUNTRY_CODE" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UbaVasPaymentResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UbaVasPaymentResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetBalance">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="username" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="password" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="PROCESSING_CODE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="DR_ACCT_NUM" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="TRAN_CRNCY_CODE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="COUNTRY_CODE" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetBalanceResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetBalanceResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AccountOpening">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="bank_id" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="source_id" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="last_name" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="first_name" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="middle_name" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="cust_addr" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="gender" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="cust_title_code" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="cust_cntry_code" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="cust_phone_num" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="email_id" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="dob" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="ac_manager_code" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sol_id" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="schm_code" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="gl_sub_head_code" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="crncy_code" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="marital_status" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="passport_num" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="requestid" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="acct_type" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="freetext" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AccountOpeningResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="AccountOpeningResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UnbsGetProducts">
+        <s:complexType />
+      </s:element>
+      <s:element name="UnbsGetProductsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UnbsGetProductsResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UnbsGetProductPerTag">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="tag" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UnbsGetProductPerTagResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UnbsGetProductPerTagResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="NiraIntegrationGetPerson">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="nationalId" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="DocumentID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="givenNames" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="otherNames" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="dateOfBirth" type="s:dateTime" />
+            <s:element minOccurs="0" maxOccurs="1" name="surName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="username" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="password" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="NiraIntegrationGetPersonResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="NiraIntegrationGetPersonResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="NiraIntegrationChangePassword">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="NewPassword" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="username" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="password" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="NiraIntegrationChangePasswordResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="NiraIntegrationChangePasswordResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="UbaVasPaymentSoapIn">
+    <wsdl:part name="parameters" element="tns:UbaVasPayment" />
+  </wsdl:message>
+  <wsdl:message name="UbaVasPaymentSoapOut">
+    <wsdl:part name="parameters" element="tns:UbaVasPaymentResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetBalanceSoapIn">
+    <wsdl:part name="parameters" element="tns:GetBalance" />
+  </wsdl:message>
+  <wsdl:message name="GetBalanceSoapOut">
+    <wsdl:part name="parameters" element="tns:GetBalanceResponse" />
+  </wsdl:message>
+  <wsdl:message name="AccountOpeningSoapIn">
+    <wsdl:part name="parameters" element="tns:AccountOpening" />
+  </wsdl:message>
+  <wsdl:message name="AccountOpeningSoapOut">
+    <wsdl:part name="parameters" element="tns:AccountOpeningResponse" />
+  </wsdl:message>
+  <wsdl:message name="UnbsGetProductsSoapIn">
+    <wsdl:part name="parameters" element="tns:UnbsGetProducts" />
+  </wsdl:message>
+  <wsdl:message name="UnbsGetProductsSoapOut">
+    <wsdl:part name="parameters" element="tns:UnbsGetProductsResponse" />
+  </wsdl:message>
+  <wsdl:message name="UnbsGetProductPerTagSoapIn">
+    <wsdl:part name="parameters" element="tns:UnbsGetProductPerTag" />
+  </wsdl:message>
+  <wsdl:message name="UnbsGetProductPerTagSoapOut">
+    <wsdl:part name="parameters" element="tns:UnbsGetProductPerTagResponse" />
+  </wsdl:message>
+  <wsdl:message name="NiraIntegrationGetPersonSoapIn">
+    <wsdl:part name="parameters" element="tns:NiraIntegrationGetPerson" />
+  </wsdl:message>
+  <wsdl:message name="NiraIntegrationGetPersonSoapOut">
+    <wsdl:part name="parameters" element="tns:NiraIntegrationGetPersonResponse" />
+  </wsdl:message>
+  <wsdl:message name="NiraIntegrationChangePasswordSoapIn">
+    <wsdl:part name="parameters" element="tns:NiraIntegrationChangePassword" />
+  </wsdl:message>
+  <wsdl:message name="NiraIntegrationChangePasswordSoapOut">
+    <wsdl:part name="parameters" element="tns:NiraIntegrationChangePasswordResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WebServiceSoap">
+    <wsdl:operation name="UbaVasPayment">
+      <wsdl:input message="tns:UbaVasPaymentSoapIn" />
+      <wsdl:output message="tns:UbaVasPaymentSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetBalance">
+      <wsdl:input message="tns:GetBalanceSoapIn" />
+      <wsdl:output message="tns:GetBalanceSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="AccountOpening">
+      <wsdl:input message="tns:AccountOpeningSoapIn" />
+      <wsdl:output message="tns:AccountOpeningSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UnbsGetProducts">
+      <wsdl:input message="tns:UnbsGetProductsSoapIn" />
+      <wsdl:output message="tns:UnbsGetProductsSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UnbsGetProductPerTag">
+      <wsdl:input message="tns:UnbsGetProductPerTagSoapIn" />
+      <wsdl:output message="tns:UnbsGetProductPerTagSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="NiraIntegrationGetPerson">
+      <wsdl:input message="tns:NiraIntegrationGetPersonSoapIn" />
+      <wsdl:output message="tns:NiraIntegrationGetPersonSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="NiraIntegrationChangePassword">
+      <wsdl:input message="tns:NiraIntegrationChangePasswordSoapIn" />
+      <wsdl:output message="tns:NiraIntegrationChangePasswordSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WebServiceSoap" type="tns:WebServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="UbaVasPayment">
+      <soap:operation soapAction="http://finaclews.org/UbaVasPayment" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetBalance">
+      <soap:operation soapAction="http://finaclews.org/GetBalance" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AccountOpening">
+      <soap:operation soapAction="http://finaclews.org/AccountOpening" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UnbsGetProducts">
+      <soap:operation soapAction="http://finaclews.org/UnbsGetProducts" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UnbsGetProductPerTag">
+      <soap:operation soapAction="http://finaclews.org/UnbsGetProductPerTag" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="NiraIntegrationGetPerson">
+      <soap:operation soapAction="http://finaclews.org/NiraIntegrationGetPerson" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="NiraIntegrationChangePassword">
+      <soap:operation soapAction="http://finaclews.org/NiraIntegrationChangePassword" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WebServiceSoap12" type="tns:WebServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="UbaVasPayment">
+      <soap12:operation soapAction="http://finaclews.org/UbaVasPayment" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetBalance">
+      <soap12:operation soapAction="http://finaclews.org/GetBalance" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AccountOpening">
+      <soap12:operation soapAction="http://finaclews.org/AccountOpening" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UnbsGetProducts">
+      <soap12:operation soapAction="http://finaclews.org/UnbsGetProducts" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UnbsGetProductPerTag">
+      <soap12:operation soapAction="http://finaclews.org/UnbsGetProductPerTag" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="NiraIntegrationGetPerson">
+      <soap12:operation soapAction="http://finaclews.org/NiraIntegrationGetPerson" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="NiraIntegrationChangePassword">
+      <soap12:operation soapAction="http://finaclews.org/NiraIntegrationChangePassword" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WebService">
+    <wsdl:port name="WebServiceSoap" binding="tns:WebServiceSoap">
+      <soap:address location="http://localhost:55188/WebService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WebServiceSoap12" binding="tns:WebServiceSoap12">
+      <soap12:address location="http://localhost:55188/WebService.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
